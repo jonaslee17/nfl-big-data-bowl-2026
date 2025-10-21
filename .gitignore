@@ -1,0 +1,30 @@
+*.csv
+output_*.csv
+supplementary_data.csv
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+*.py[cod]
+venv/
+env/
+.env
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# IDEs
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Output files
+*.png
+*.jpg
+plots/
+figures/
