@@ -24,7 +24,5 @@ env/
 Thumbs.db
 
 # Output files
-*.png
-*.jpg
-plots/
+
 figures/
